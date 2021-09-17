@@ -1,0 +1,284 @@
+GBP (Pound sterling)
+South Georgia Island, United Kingdom, Guernsey, Jersey.
+EUR (Euro)
+Austria, Belgium, Estonia, France, Germany, Estonia and many more.
+USD (US Dollar)
+Ecuador, El Salvador, Panama, Puerto Rico, USA and few others.
+INR (Indian rupee)
+India.
+CAD (Canadian dollar)
+Canada.
+AUD (Australian dollar)
+Australia, Nauru, Tuvalu, Kiribati.
+CHF (Swiss franc)
+Liechtenstein, Switzerland.
+MXN (Mexican peso)
+Mexico.
+FJD (Fijian dollar)
+Fiji.
+SCR (Seychellois rupee)
+Seychelles.
+BBD (Barbadian dollar)
+Barbados.
+GTQ (Guatemalan quetzal)
+Guatemala.
+CLP (Chilean peso)
+Chile.
+HNL (Honduran lempira)
+Honduras.
+UGX (Ugandan shilling)
+Uganda.
+ZAR (South African rand)
+South Africa.
+TND (Tunisian dinar)
+Tunisia.
+BSD (Bahamian dollar)
+Bahamas.
+SLL (Sierra Leonean leone)
+Sierra Leone.
+GMD (Gambian dalasi)
+Gambia.
+TWD (New Taiwan dollar)
+Taiwan.
+RSD (Serbian dinar)
+Serbia.
+DOP (Dominican peso)
+Dominican Republic.
+KMF (Comorian franc)
+Comoros.
+MYR (Malaysian ringgit)
+Malaysia.
+FKP (Falkland Islands pound)
+Falkland Islands.
+XOF (West African CFA franc)
+Benin, Burkina Faso, Cote d'Ivoire, Guinea-Bissau, Mali, Niger, Senegal, Togo.
+GEL (Georgian lari)
+Georgia.
+UYU (Uruguayan peso)
+Uruguay.
+MAD (Moroccan dirham)
+Morocco.
+CVE (Cabo Verdean escudo)
+Cabo Verde.
+TOP (Tongan pa’anga)
+Tonga.
+AZN (Azerbaijan manat)
+Azerbaijan.
+OMR (Omani rial)
+Oman.
+PGK (Papua New Guinean kina)
+Papua New Guinea.
+KES (Kenyan shilling)
+Kenya.
+SEK (Swedish krona)
+Sweden.
+BTN (Bhutanese ngultrum)
+Bhutan.
+UAH (Ukrainian hryvnia)
+Ukraine.
+GNF (Guinean franc)
+Guinea.
+MZN (Mozambican metical)
+Mozambique.
+SVC (El Salvador Colon)
+El Salvador.
+ARS (Argentine peso)
+Argentina.
+QAR (Qatari riyal)
+Qatar.
+CNY (Chinese Yuan Renminbi)
+China.
+THB (Thai baht)
+Thailand.
+UZS (Uzbekistani som)
+Uzbekistan.
+XPF (CFP franc)
+French Polynesia, New Caledonia, Wallis and Futuna.
+MRU (Mauritanian ouguiya)
+Mauritania.
+BDT (Bangladeshi taka)
+Bangladesh.
+BMD (Bermudian dollar)
+Bermuda.
+KWD (Kuwaiti dinar)
+Kuwait.
+PHP (Philippine peso)
+Philippines.
+RUB (Russian ruble)
+Russia.
+PYG (Paraguayan guarani)
+Paraguay.
+ISK (Icelandic krona)
+Iceland.
+JMD (Jamaican dollar)
+Jamaica.
+COP (Colombian peso)
+Colombia.
+MKD (Macedonian denar)
+North Macedonia.
+DZD (Algerian dinar)
+Algeria.
+PAB (Balboa)
+Panama.
+GGP (Guernsey Pound)
+Guernsey.
+SGD (Singapore dollar)
+Singapore.
+ETB (Ethiopian birr)
+Ethiopia.
+JEP (Jersey pound)
+Jersey.
+KGS (Kyrgyzstani som)
+Kyrgyzstan.
+VUV (Vanuatu vatu)
+Vanuatu.
+LAK (Lao kip)
+Laos.
+BND (Brunei dollar)
+Brunei.
+XAF (Central African CFA franc)
+Cameroon, Central African Republic, Chad, Congo, Equatorial Guinea, Gabon.
+LRD (Liberian dollar)
+Liberia.
+HRK (Croatian kuna)
+Croatia.
+ALL (Albanian lek)
+Albania.
+DJF (Djiboutian franc)
+Djibouti.
+ZMW (Zambian kwacha)
+Zambia.
+TZS (Tanzanian shilling)
+Tanzania.
+VND (Vietnamese dong)
+Vietnam.
+ILS (Israeli new shekel)
+Israel, Palestine.
+GHS (Ghanaian cedi)
+Ghana.
+GYD (Guyanese dollar)
+Guyana.
+BOB (Bolivian boliviano)
+Bolivia.
+KHR (Cambodian riel)
+Cambodia.
+MDL (Moldovan leu)
+Moldova.
+IDR (Indonesian rupiah)
+Indonesia.
+KYD (Cayman Islands dollar)
+Cayman Islands.
+AMD (Armenian dram)
+Armenia.
+BWP (Botswana pula)
+Botswana.
+SHP (Saint Helena pound)
+Ascension Island, Saint Helena.
+TRY (Turkish lira)
+Turkey.
+LBP (Lebanese pound)
+Lebanon.
+TJS (Tajikistani somoni)
+Tajikistan.
+JOD (Jordanian dinar)
+Jordan.
+AED (UAE dirham)
+United Arab Emirates.
+HKD (Hong Kong dollar)
+Hong Kong.
+RWF (Rwandan franc)
+Rwanda.
+LSL (Lesotho loti)
+Lesotho.
+DKK (Danish krone)
+Denmark, Greenland.
+BGN (Bulgarian lev)
+Bulgaria.
+MMK (Myanmar kyat)
+Myanmar.
+MUR (Mauritian rupee)
+Mauritius.
+NOK (Norwegian krone)
+Norway, Svalbard and Jan Mayen.
+IMP (Manx pound)
+Isle of Man.
+GIP (Gibraltar pound)
+Gibraltar.
+RON (Romanian leu)
+Romania.
+LKR (Sri Lankan rupee)
+Sri Lanka.
+NGN (Nigerian naira)
+Nigeria.
+CRC (Costa Rican colon)
+Costa Rica.
+CZK (Czech koruna)
+Czechia.
+PKR (Pakistani rupee)
+Pakistan.
+XCD (East Caribbean dollar)
+Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Lucia.
+ANG (Netherlands Antillean guilder)
+Curaco, Sint Maarten.
+HTG (Haitian gourde)
+Haiti.
+BHD (Bahraini dinar)
+Bahrain.
+KZT (Kazakhstani tenge)
+Kazakhstan.
+SRD (Surinamese dollar)
+Suriname.
+SZL (Swazi lilangeni)
+Eswatini.
+SAR (Saudi Arabian riyal)
+Saudi Arabia.
+TTD (Trinidad and Tobago dollar)
+Trinidad and Tobago.
+MVR (Maldivian rufiyaa)
+Maldives.
+AWG (Aruban florin)
+Aruba.
+KRW (South Korean won)
+South Korea.
+NPR (Nepalese rupee)
+Nepal.
+JPY (Japanese yen)
+Japan.
+MNT (Mongolian tugrik)
+Mongolia.
+AOA (Angolan kwanza)
+Angola.
+PLN (Polish zloty)
+Poland.
+SBD (Solomon Islands dollar)
+Solomon Islands.
+BYN (Belarusian ruble)
+Belarus.
+HUF (Hungarian forint)
+Hungary.
+MWK (Malawian kwacha)
+Malawi.
+MGA (Malagasy ariary)
+Madagascar.
+BZD (Belize dollar)
+Belize.
+BAM (Bosnia and Herzegovina convertible mark)
+Bosnia and Herzegovina.
+EGP (Egyptian pound)
+Egypt.
+MOP (Macanese pataca)
+Macau.
+NAD (Namibian dollar)
+Namibia.
+NIO (Nicaraguan cordoba)
+Nicaragua.
+PEN (Peruvian sol)
+Peru.
+NZD (New Zealand dollar)
+Chatham Islands, New Zealand, Niue, Pitcairn Islands, Tokelau.
+WST (Samoan tala)
+Samoa.
+TMT (Turkmen manat)
+Turkmenistan.
+BRL (Brazilian real)
+Brazil.
